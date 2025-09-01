@@ -3,13 +3,13 @@ A C++ game developed using graphics.h (winBGI) featuring a graphical user interf
 
 🎮 Features
 
-Graphical User Interface: Smooth and visually appealing interface using winBGI.
+-Graphical User Interface: Smooth and visually appealing interface using winBGI.
 
-Animations & Sound Effects: Enhances gameplay with dynamic visuals and audio feedback.
+-Animations & Sound Effects: Enhances gameplay with dynamic visuals and audio feedback.
 
-Multiple Game Boards: Play on various boards, each with unique layouts.
+-Multiple Game Boards: Play on various boards, each with unique layouts.
 
-Challenges & Modes: Different challenges with rules for arranging pieces and time-based objectives.
+-Challenges & Modes: Different challenges with rules for arranging pieces and time-based objectives.
 
 
 🖼️ Screenshots
